@@ -1,0 +1,23 @@
+# Local credentials and exploratory notebooks
+diedfishi.ipynb
+*.env
+.env
+
+# Data caches
+dead_fish_cache*/
+*_cache*/
+
+# Generated research outputs
+*.csv
+*.log
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
