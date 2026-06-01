@@ -87,6 +87,15 @@ In the final trade validation, the strategy remained negative after applying:
 
 This repository is therefore a research case study, not a profitable trading system.
 
+## Limitations
+
+- Signals are generated after market close and executed on the next trading day.
+- Stop-loss logic is based on daily-bar close/open execution, not intraday tick-level stops.
+- Limit-up/down checks are simplified and do not model order-book queues or market depth.
+- Parameters are research heuristics from iterative experiments, not optimized production settings.
+- The code is a single-file research script rather than a production trading framework.
+- The project is intended to document a rejected hypothesis and diagnostic process, not to provide a deployable strategy.
+
 ## Requirements
 
 ```bash
