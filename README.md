@@ -65,6 +65,3 @@ The script writes cache and result files locally. These files are intentionally 
 - Tushare data permissions and rate limits may affect reproducibility.
 - The old exploratory notebook may contain local credentials and should not be committed.
 
-## Suggested Resume Framing
-
-Built an A-share quantitative research pipeline using Python, Pandas, and Tushare; repaired historical constituent data, implemented backtest execution constraints, built signal funnel diagnostics, and validated a failed mean-reversion hypothesis through ranking and tail-risk analysis.
