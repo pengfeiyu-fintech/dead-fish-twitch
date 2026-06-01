@@ -53,7 +53,7 @@ $env:TUSHARE_TOKEN="your_token_here"
 ## Run
 
 ```bash
-python dead_fish_v412_optimized.py
+python dead_fish_twitch_research.py
 ```
 
 The script writes cache and result files locally. These files are intentionally ignored by Git.
