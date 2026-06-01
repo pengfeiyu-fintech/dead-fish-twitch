@@ -1,20 +1,3 @@
-对，我改的是你电脑 work 文件夹里的本地 `README.md`，还没有自动改 GitHub 上的 README。
-
-你**不用删除 GitHub 原文件再上传**，最简单是直接在 GitHub 网页编辑：
-
-1. 打开你的仓库 README。
-2. 点右上角铅笔图标。
-3. 全选原来的 README 内容。
-4. 用下面这份内容全部替换。
-5. Commit message 写：
-   ```text
-   Expand research design section
-   ```
-6. 点 `Commit changes`。
-
-直接复制这份：
-
-```md
 # Dead Fish Twitch
 
 An experimental A-share mean-reversion research project.
